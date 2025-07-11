@@ -4,28 +4,21 @@ title: About
 # permalink: /about/
 ---
 
-I am a 4th year PhD Candidate at [Iowa State University](http://www.iastate.edu/) working with [Jarad Niemi](http://www.jarad.me/). Currently, I am a Research Assistant in the RNA-seq group and a consultant for the [Agricultural Experiment Station consulting group](http://stat.iastate.edu/agriculture-experiment-station-consulting-group).  [(Resume)](../eric_mittman_resume.pdf) 
+I am Data Scientist holding a PhD in Statistics from Iowa State University. I enjoy modeling problems and solving them, discussing the process with people, and producing something new that's helpful and robust. I don't always love the pain that comes with implementation a solution, but I really like getting it done right.
+
+### Work background
+For the last 7+ years I was a Statistician and then a Data Scientist at Intel, Ronler Acres Campus. I worked under several different org structures, but always within the same core team in Logic Technology Development. Our team had a number of distinct responsibilities. We were regularly commissioned by process integrators and module engineers to help with data analysis and automating applied statistics solutions. We defined SPC best practices and helped the engineers, who were our customers, interact with the SPC systems. We had a critical role in defining the roadmap for improvements to those systems. We owned over a dozen stats and software classes, some required training, which we developed and taught. We also were gating reviewers of 1000s of whitepapers per year.
+
+I enjoyed the variety of people and challenges in that job. In 2020, all of those at the company that didn't need to physically be in the factory went remote, myself included. Fast-forward to 2024, I had adapted to the change and opted to remain fully remote and relocated to be near family. In July, I was given notice that all remote work was going to be disallowed.
 
 ### Research
-In my research, I use computationally intensive [Markov Chain Monte Carlo](https://en.wikipedia.org/wiki/Markov_chain_Monte_Carlo) samping methods to fit Bayesian models. My favorite black box to use is [Stan](http://mc-stan.org/). My area of application is gene expression data analysis using flexible, nonparametric hierarchical models.
+In graduate school, I use computationally intensive Markov Chain Monte Carlo (MCMC) samping methods to fit (hierarchical) Bayesian models. Some of this work was done using software libraries, such as rstan and jags in R, but I also targeted GPUs which required much lower level programming. To do this I called cuda libraries from C++ with an R wrapper. This was quite a learning curve since I am a self-taught programmer outside of CompSci 101 and a fantastic Introduction to R class (required at ISU). Hierarchical models are a particular way of improving inference when the set of unknowns you are interested in is very high dimensional and the Bayesian approach enables principled quantification of your uncertainty in that inference.
+
+At Intel, I liked that all the research I did was problem driven. In the course of business I encountered hands-on: non-parametric regression, measurement error models, circular 2d orthogonal polynomials, and image processing techniques.
 
 ### Personal
 
-Jessa and I are proud parents of three children, ages 1, 6 and 9. We met while Sophomores at [Luther College](https://www.luther.edu/) in beautiful [Decorah, Iowa](http://www.visitdecorah.com/). Jessa stays busy supporting our families day to day operations and directing our kids educational activities. I have two younger brothers: Scott is working on a master's in math at [Northern Arizona University](http://nau.edu/) and  Michael is Vice President at [Cellencor](http://www.cellencor.com/) in Ankeny, IA where they do interesting things with microwaves. My father, Tom, coaches [Iowa City High's girls cross-country and track teams](http://www.cityhighruns.com/). My mother, Laura, is a research scientist at [Bishop Lab](http://www.healthcare.uiowa.edu/labs/bishop/) at the University of Iowa where she studies cells of the immune system.
-
-### Hobbies
-- Playing with my children:
-9 y.o. enjoys board games, Pokemon, soccer and electronic toys, 6 y.o. loves imaginitive play, which often features me as her horse and the 1 y.o. likes my silly face and building (knocking down) block towers.
-  
-- Running:
-I mostly run for fitness, but occasionally train to compete. In 2013, I ran my PR in the Minneapolis Marathon (2:49).
-
-- Cooking:
-Cooking is fun. Usually, I do basic weeknight stuff like pasta or roasted chicken and vegtables. During warm months I like to get the grill going on the weekend. Having worked previously at [Pagliai's Pizza](http://www.pagliaisic.com/) and [New Pioneer Food Co-op](https://www.newpi.coop/) in Iowa City, I've learned how to make good [pie](https://emittman.github.io/images/pizza.jpg).
-
-- Making music:
-These days, I like to play out of old piano books while hanging out at home. Previously I had the pleasure of being a member of the [City High](https://cityhighmusic.jimdo.com/orchestra/) and [Luther College](https://www.luther.edu/music/symphony-orchestra/) symphonic orchestras, playing the string bass.
-
+My partner Jessa and I are proud parents of four beautiful children, ages 2, 9, 14 and 17. Somehow, we were talked into getting a frisky black dog and a very agreeable cat. Next year the two oldest will get themselves to high school so we only need to taxi the 4th grader. When I retire I will play String Bass, Jessa will read and we will go for long hikes. We love living in Iowa because we get to be near our extended family and because the weather here makes sure we pay attention to it.
 
 ### Contact me
-[emittman@iastate.edu](mailto:emittman@iastate.edu)
+[mittman.eric@gmail.com](mailto:mittman.eric@gmail.com)
